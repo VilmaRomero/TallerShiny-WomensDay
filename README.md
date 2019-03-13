@@ -1,7 +1,7 @@
 # Women's Day: Por más mujeres en tecnología
-***
+
 # *Crea tu primera app en 45 minutos con Shiny y R*
-***
+
 ## Descripción
 Este taller tiene como objetivo introducir a los participantes el uso del paquete **`shiny`**. Este paquete permite construir de manera sencilla aplicaciones web interactivas directamente desde R. Además, gracias a que la elaboración se realiza completamente desde R, se tiene la ventaja de que los usuarios no sólo puedan interactuar con los datos sino también con sus respectivos análisis.
 
