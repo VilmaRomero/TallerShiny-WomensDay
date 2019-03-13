@@ -5,7 +5,7 @@
 ## Descripción
 Este taller tiene como objetivo introducir a los participantes el uso del paquete **`shiny`**. Este paquete permite construir de manera sencilla aplicaciones web interactivas directamente desde R. Además, gracias a que la elaboración se realiza completamente desde R, se tiene la ventaja de que los usuarios no sólo puedan interactuar con los datos sino también con sus respectivos análisis.
 
-Al finalizar de este taller, habremos construido lo siguiente:
+Al finalizar este taller, habremos construido lo siguiente:
 
 ![](FinalApp.png)
 
