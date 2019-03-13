@@ -44,7 +44,7 @@ ui <- fluidPage(
       # Diseño del Panel Principal 
       # Espacio para mostrar los resultados
       mainPanel(
-        h4("Mapa del Score de Felicidad - ONU"),
+        h4("Mapa del Score de Felicidad"),
         leafletOutput(outputId = "mapa"),
         br(),
         plotlyOutput("PorRegion"),

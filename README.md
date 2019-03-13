@@ -9,13 +9,13 @@ Al finalizar de este taller, habremos construido lo siguiente:
 
 ![](FinalApp.png)
 
-El despliegue de esta aplicación se encuentra en <https://vilsurr.shinyapps.io/tallershinywomensday/>
+El despliegue de esta aplicación se encuentra en <https://vilsurr.shinyapps.io/tallershinywomensday/>. Para que los resultados se vean como la imagen anterior, hay que cargar alguno de los archivos *.csv* que se encuentran en la carpeta **"world-happiness-report"**.
 
 ## Datos
 Los datos que se usan para crear esta aplicación están contenidos en la carpeta **"world-happiness-report"** y han sido tomados de la plataforma  [Kaggle](https://www.kaggle.com). La información mostrada está basada en una encuesta histórica del estado de la felicidad global. Si deseas conocer a mayor detalle estos datos, puedes revisar este [enlace](https://www.kaggle.com/unsdsn/world-happiness).
 
 ## Paquetes a utilizar
-Para que la aplicación puede ejecutarse adecuadamente se necesita tener instalados los siguientes paquetes:
+Para que la aplicación puede ejecutarse adecuadamente, instalar los siguientes paquetes:
 
 ```r
 install.packages("shiny")
@@ -30,7 +30,7 @@ install.packages("htmltools")
 ## Algunas consideraciones
 - El archivo principal de construcción es el script **app.R**. 
 - Se debe descargar completamente este repositorio y establecerlo como directorio de trabajo antes de ejecutar el script **app.R**. Caso contrario, algunos resultados de la aplicación generarán error.
-- La aplicación será creada en el servidor local por defecto. Si deseas que se encuentre en la web, puedes realizar el despliegue haciendo uso de [Shinyapp.io](https://www.shinyapps.io).
+- La aplicación será creada en el servidor local por defecto. Si deseas que se encuentre en la web, puedes realizar el despliegue haciendo uso de [Shinyapps.io](https://www.shinyapps.io).
 
 ## Recursos adicionales
 
